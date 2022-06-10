@@ -1,6 +1,6 @@
 {
     "name": "phaser3-rex-plugins-fix",
-    "version": "1.1.70",
+    "version": "1.1.71",
     "description": "Plugins of phaser3",
     "author": "Rex",
     "files": [
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rexrainbow/phaser3-rex-notes"
+        "url": "https://github.com/junthink/phaser3-rex-notes"
     },
     "keywords": [
         "phaser3"
